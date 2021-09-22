@@ -1,7 +1,7 @@
 ### Hello!
 
-- 🔭 I’m currently working on passing school
-- 📫 How to reach me: CaptainCapsize#7056 on Discord
+- 🔭 I’m currently in school
+- 📫 Contact me on discord: CaptainCapsize#7056
 - 😄 Pronouns: he/him
 
 <!--
