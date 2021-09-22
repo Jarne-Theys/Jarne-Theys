@@ -1,9 +1,8 @@
-### How does this work
+### Hello!
 
 - 🔭 I’m currently working on passing school
 - 📫 How to reach me: CaptainCapsize#7056 on Discord
-- 😄 Pronouns: it
-- ⚡ Fun fact: I'm not human
+- 😄 Pronouns: he/him
 
 <!--
 - 🌱 I’m currently learning ...
