@@ -1,8 +1,6 @@
 ### Hello!
 
-- 🔭 I’m currently in school
-- 📫 Contact me on discord: CaptainCapsize#7056
-- 😄 Pronouns: he/him
+
 
 <!--
 - 🌱 I’m currently learning ...
